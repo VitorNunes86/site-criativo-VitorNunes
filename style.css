@@ -5,13 +5,13 @@
 }
 
 .cabecalho {
-    background-color: #C42424;
+    background-color: #CD2626;
     color: #000000;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px;
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins",sans-serif;
 }
 
 .cabecalho-imagem {
@@ -29,13 +29,13 @@
 }
 
 .escola {
-    background-image: linear-gradient(#FFFFFF, #C42424);
+    background-image: linear-gradient(#FFFFFF, #D31515);
     color: black;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins",sans-serif;
     text-align: center;
 }
 
@@ -48,42 +48,41 @@
     font-size: 30px;
 }
 
-.estudante-imagem {
+.estudante-imagem{
     width: 255px;
 }
 
-.estudante-icone {
+.estudante-icone{
     width: 35px;
 }
 
-.estudante-div {
+.estudante-div{
     text-align: center;
     padding: 20px 20px;
 }
 
-.estudante {
+.estudante{
     background-color: #C42424;
 }
 
-.estudante-titulo {
+.estudante-titulo{
     text-align: center;
     font-size: 32px;
     color: #000000;
     padding: 30px 0;
 }
 
-.estudante-todos {
+.estudante-todos{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
 
-.rodape {
+.rodape{
     background-color: #C42424;
     text-align: center;
 }
 
-.rodape-imagem {
+.rodape-imagem{
     height: 100px;
     padding: 12px 0;
-
 }
